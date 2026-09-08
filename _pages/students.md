@@ -27,7 +27,7 @@ Mr. Liu Boliang (graduated from 复旦大学, 2025): Scale-out Networks for LLM 
 
 Mr. Tian Hang (graduated from 上海交通大学, 2025): Scale-up Networks for LLM Training and Inference
 
-Ms. Wen Ming (graduated from 复旦大学, 硕转博, 2025): LLM Alignment and Agentic AI Security
+Ms. Wen Ming (graduated from 复旦大学, 硕转博@SII, 2025): LLM Alignment and Agentic AI Security
 
 Mr. Zhou Zhou (graduated from 电子科技大学, 2024): LLM Inference Acceleration
 
